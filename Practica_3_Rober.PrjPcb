@@ -171,7 +171,7 @@ GenerateClassCluster=0
 DocumentUniqueId=NSPQOZRQ
 
 [Document8]
-DocumentPath=Memory_SRAM.Harness
+DocumentPath=Main_TopSheet.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -188,7 +188,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document9]
-DocumentPath=Main_TopSheet.Harness
+DocumentPath=System.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
